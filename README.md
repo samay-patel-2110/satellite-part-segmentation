@@ -1,0 +1,3 @@
+Part Segmentation on SpaceCraft Dataset
+
+https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/papers/Dung_A_Spacecraft_Dataset_for_Detection_Segmentation_and_Parts_Recognition_CVPRW_2021_paper.pdf
